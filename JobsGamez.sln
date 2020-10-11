@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{A97645AB-B290-4E20-AF45-53D49FCCEBBC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{0E6EA202-7DF5-4D03-AE39-CA1859AE4EF1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JobsGamez", "JobsGamez\JobsGamez.vcxproj", "{26174376-1227-4202-9216-70BE16E94F4D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JobsGamez", "JobsGamez\JobsGamez.vcxproj", "{0C02D67D-D475-4DF4-AD13-E47FFAFA6C25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +13,19 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{26174376-1227-4202-9216-70BE16E94F4D}.Debug|x64.ActiveCfg = Debug|x64
-		{26174376-1227-4202-9216-70BE16E94F4D}.Debug|x64.Build.0 = Debug|x64
-		{26174376-1227-4202-9216-70BE16E94F4D}.Release|x64.ActiveCfg = Release|x64
-		{26174376-1227-4202-9216-70BE16E94F4D}.Release|x64.Build.0 = Release|x64
-		{A97645AB-B290-4E20-AF45-53D49FCCEBBC}.Debug|x64.ActiveCfg = Debug|x64
-		{A97645AB-B290-4E20-AF45-53D49FCCEBBC}.Debug|x64.Build.0 = Debug|x64
-		{A97645AB-B290-4E20-AF45-53D49FCCEBBC}.Release|x64.ActiveCfg = Release|x64
-		{A97645AB-B290-4E20-AF45-53D49FCCEBBC}.Release|x64.Build.0 = Release|x64
+		{0C02D67D-D475-4DF4-AD13-E47FFAFA6C25}.Debug|x64.ActiveCfg = Debug|x64
+		{0C02D67D-D475-4DF4-AD13-E47FFAFA6C25}.Debug|x64.Build.0 = Debug|x64
+		{0C02D67D-D475-4DF4-AD13-E47FFAFA6C25}.Release|x64.ActiveCfg = Release|x64
+		{0C02D67D-D475-4DF4-AD13-E47FFAFA6C25}.Release|x64.Build.0 = Release|x64
+		{0E6EA202-7DF5-4D03-AE39-CA1859AE4EF1}.Debug|x64.ActiveCfg = Debug|x64
+		{0E6EA202-7DF5-4D03-AE39-CA1859AE4EF1}.Debug|x64.Build.0 = Debug|x64
+		{0E6EA202-7DF5-4D03-AE39-CA1859AE4EF1}.Release|x64.ActiveCfg = Release|x64
+		{0E6EA202-7DF5-4D03-AE39-CA1859AE4EF1}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F00FD8A4-1CB5-4A23-85F4-1F9EE88534AB}
+		SolutionGuid = {8C81D08F-5907-4225-98F6-3FD9F0816E75}
 	EndGlobalSection
 EndGlobal
